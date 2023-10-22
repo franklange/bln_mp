@@ -1,2 +1,2 @@
-# template
-Basic C++ library template.
+# bln_mp
+Experimental multiplayer game.
